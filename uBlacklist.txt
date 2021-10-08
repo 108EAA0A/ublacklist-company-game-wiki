@@ -9,5 +9,6 @@
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
 *://*.h1g.jp/*
+*://*.hyperwiki.jp/*
 *://*.kamigame.jp/*
 *://*.samurai-gamers.com/*
