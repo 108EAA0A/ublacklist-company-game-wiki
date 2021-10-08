@@ -6,5 +6,6 @@
 *://*.gamerch.com/*
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
+*://*.h1g.jp/*
 *://*.kamigame.jp/*
 *://*.samurai-gamers.com/*
