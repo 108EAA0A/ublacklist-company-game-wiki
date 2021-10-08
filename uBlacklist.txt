@@ -1,0 +1,8 @@
+*://*.altema.jp/*
+*://*.appmedia.jp/*
+/boom-app\.(com|wiki)/
+*://*.game8.jp/*
+*://*.gamewith.jp/*
+*://*.gamy.jp/*
+*://*.kamigame.jp/*
+*://*.samurai-gamers.com/*
