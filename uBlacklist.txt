@@ -3,6 +3,7 @@
 /boom-app\.(com|wiki)/
 *://*.famitsu.com/*
 *://*.game8.jp/*
+*://*.gameranbu.jp/*
 *://*.gamerch.com/*
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
