@@ -1,3 +1,4 @@
+*://*.70okugame.com/*
 *://*.altema.jp/*
 *://*.appmedia.jp/*
 /boom-app\.(com|wiki)/
