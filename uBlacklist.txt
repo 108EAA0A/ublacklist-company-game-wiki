@@ -2,6 +2,7 @@
 *://*.appmedia.jp/*
 /boom-app\.(com|wiki)/
 *://*.game8.jp/*
+*://*.gamerch.com/*
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
 *://*.kamigame.jp/*
