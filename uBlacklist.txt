@@ -3,6 +3,7 @@
 *://*.appmedia.jp/*
 /boom-app\.(com|wiki)/
 *://*.dengekionline.com/*
+*://*.dopr.net/*
 *://*.famitsu.com/*
 *://*.game8.jp/*
 *://*.gamepedia.jp/*
