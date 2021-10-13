@@ -13,3 +13,4 @@
 *://*.hyperwiki.jp/*
 *://*.kamigame.jp/*
 *://*.samurai-gamers.com/*
+*://*.xneo.jp/*
