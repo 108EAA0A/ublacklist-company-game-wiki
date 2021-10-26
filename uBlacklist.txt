@@ -6,6 +6,7 @@
 *://*.dopr.net/*
 *://*.famitsu.com/*
 *://*.game8.jp/*
+*://*.gamedrive.jp/wiki/*
 *://*.gamepedia.jp/*
 *://*.gameranbu.jp/*
 *://*.gamerch.com/*
