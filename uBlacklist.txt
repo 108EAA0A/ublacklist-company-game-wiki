@@ -8,6 +8,7 @@
 *://*.famitsu.com/*
 *://*.game8.jp/*
 *://*.gamedrive.jp/wiki/*
+*://*.gamematome.jp/*
 *://*.gamepedia.jp/*
 *://*.gameranbu.jp/*
 *://*.gamerch.com/*
