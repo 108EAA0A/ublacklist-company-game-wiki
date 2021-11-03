@@ -1,5 +1,6 @@
 *://*.70okugame.com/*
 *://*.altema.jp/*
+*://*.appbank.net/*
 *://*.appmedia.jp/*
 /boom-app\.(com|wiki)/
 *://*.dengekionline.com/*
