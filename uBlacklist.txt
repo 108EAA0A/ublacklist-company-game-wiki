@@ -17,6 +17,7 @@
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
 *://*.h1g.jp/*
+*://*.ha-navi.com/*
 *://*.hyperwiki.jp/*
 *://*.kamigame.jp/*
 *://*.samurai-gamers.com/*
