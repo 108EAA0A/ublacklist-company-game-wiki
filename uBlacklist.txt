@@ -7,11 +7,13 @@
 *://*.dopr.net/*
 *://*.famitsu.com/*
 *://*.game8.jp/*
+*://*.gamedeets.com/*
 *://*.gamedrive.jp/wiki/*
 *://*.gamematome.jp/*
 *://*.gamepedia.jp/*
 *://*.gameranbu.jp/*
 *://*.gamerch.com/*
+*://games.app-liv.jp/*
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
 *://*.h1g.jp/*
