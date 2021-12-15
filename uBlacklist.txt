@@ -22,6 +22,7 @@
 *://*.hyperwiki.jp/*
 *://*.kamigame.jp/*
 *://*.samurai-gamers.com/*
+*://*.smashlog.games/*
 *://*.syoyougame.jp/*
 *://wiki.4gamer.net/*
 *://*.xneo.jp/*
