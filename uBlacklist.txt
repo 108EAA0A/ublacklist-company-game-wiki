@@ -14,6 +14,7 @@
 *://*.gameranbu.jp/*
 *://*.gamerch.com/*
 *://games.app-liv.jp/*
+*://*.gamesink.net/*
 *://*.gamewith.jp/*
 *://*.gamy.jp/*
 *://*.h1g.jp/*
