@@ -24,5 +24,6 @@
 *://*.samurai-gamers.com/*
 *://*.smashlog.games/*
 *://*.syoyougame.jp/*
+*://*.tanuki.atwiki.jp/*
 *://wiki.4gamer.net/*
 *://*.xneo.jp/*
